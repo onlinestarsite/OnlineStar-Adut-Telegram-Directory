@@ -32,9 +32,9 @@ Whether users are searching for entertainment, social communities, media, techno
 
 # 🔥 Main Features
 
-## Telegram Channel Discovery
+## Telegram Adult 18+ Channel Discovery
 
-Explore thousands of public Telegram channels and groups sorted by categories and popularity.
+Explore thousands of Adult Telegram channels and groups sorted by categories and popularity.
 
 ---
 
