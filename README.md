@@ -94,7 +94,7 @@ The project is built with a clean and lightweight structure optimized for:
 
 # 🔞 Adult Content Notice
 
-Some Telegram channels and groups listed on OnlineStar may contain NSFW or adult-oriented (18+) material.
+All Telegram channels and groups listed on OnlineStar may contain NSFW or adult-oriented (18+) material.
 
 By using this platform, users confirm that they are legally allowed to access adult content according to their local laws and regulations.
 
